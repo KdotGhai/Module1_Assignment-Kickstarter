@@ -20,3 +20,6 @@ In this assignment we will be analyzing accumulated data that glances at crowd-f
 |35000 to 39999|	25|	2|	0|	27|	92.59%|	7.41%|	0.00%|
 |45000 to 49999|	17|	1|	0|	18|	94.44%|	5.56%|	0.00%|
 |greater than 50000|	147|	6|	9|	162|	90.74%|	3.70%|	5.56%|
+
+
+![Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png)
