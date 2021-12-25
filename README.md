@@ -2,10 +2,10 @@
 
 ## **Overview**
 
-In this assignment we will be analyzing accumulated data that glances at crowd-funded projects aiming to move onto production once they've reached their goal, this data is not limited to just one region and category. We will be dissecting the data in a variety of ways from successful projects reaching their goals to failures, which country and category received greater outcome, budget estimates after crunching numbers into more digestible and tangible data tables/charts, etc. However, we will narrow our focus on two main aspects: "Theater Outcomes by Launch Date" and "Outcomes based on Goals."
+In this assignment we will be analyzing accumulated data that glances at crowd-funded projects aiming to move onto production once they've reached their goal, this data is not limited to just one region and category. We will be dissecting the data in a variety of ways from successful projects reaching their goals to failures, which country and category received greater outcome, budget estimates after crunching numbers into more digestible and tangible data tables/charts, etc. However, we will narrow our focus on two main aspects: "Theater Outcomes by Launch Date" and "Outcomes Based on Goals."
 
-## **Outcomes based on Goals**
-We'll start off with Outcomes based on Goals to provide us small insight on trends and funding patterns for project big and small associated with it.  If we look to the table it may be overwhelmiong at first but on closer inspection we can see the success rates seems to stay over 75% on various goal ranges with the exception being "Less than 1000."
+## **Outcomes Based on Goals**
+We'll start off with Outcomes based on Goals to provide us small insight on trends and funding patterns for project big and small associated with it. If we look to the table it may be overwhelmiong at first but on closer inspection we can see the success rates seems to stay over 75% on various goal ranges with the exception being "Less than 1000." Furthermore, the graph displays clearly that projects are more likely to succeed and more funding when they set larger goals while taking into consideration that cancellation occurs at a low constant percentage regardless of the goal.
 
 
 |Goals|	Number Successful|Number Failed|Number Canceled|Total Projects|	Percentage Successful|Percentage Failed|Percentage Canceled|
@@ -23,7 +23,7 @@ We'll start off with Outcomes based on Goals to provide us small insight on tren
 |45000 to 49999|	17|	1|	0|	18|	94.44%|	5.56%|	0.00%|
 |greater than 50000|	147|	6|	9|	162|	90.74%|	3.70%|	5.56%|
 
-
+![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 ## **Theater Outcomes by Launch Date**
 Let it be known this is a small representation of the over all data as there are many more categories, thier data and trends vary but still display distinguishable patterns over a period of time.
 ![Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png)
