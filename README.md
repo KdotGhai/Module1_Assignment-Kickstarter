@@ -1,9 +1,11 @@
 # **Kickstarter-Analysis**
 
-##Overview
-  In this assignment we will be analyzing accumulated data that glances at crowd-funded projects aiming to move onto production once they've reached their goal, this data is not limited to just one region and category. We will be dissecting the data in a variety of ways from successful projects reaching their goals to failures, which country and category received greater outcome, budget estimates after crunching numbers into more digestible and tangible data tables/charts, etc. However, we will narrow our focus on two main aspects: "Theater Outcomes by Launch Date" and "Outcomes based on Goals."
+##**Overview**
 
-##Theater Outcomes by Launch Date
+In this assignment we will be analyzing accumulated data that glances at crowd-funded projects aiming to move onto production once they've reached their goal, this data is not limited to just one region and category. We will be dissecting the data in a variety of ways from successful projects reaching their goals to failures, which country and category received greater outcome, budget estimates after crunching numbers into more digestible and tangible data tables/charts, etc. However, we will narrow our focus on two main aspects: "Theater Outcomes by Launch Date" and "Outcomes based on Goals."
+
+##**Theater Outcomes by Launch Date**
+
 |Goals|	Number Successful|Number Failed|Number Canceled|Total Projects|	Percentage Successful|Percentage Failed|Percentage Canceled|
 |:----:|:---------------:|:-----------:|:-------------:|:------------:|:--------------------:|:---------------:|:-----------------:|
 |Less than 1000|	248|	1202|	262|	1712|	14.49%|	70.21%|	15.30%|
