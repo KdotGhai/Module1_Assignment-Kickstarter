@@ -25,5 +25,5 @@ We'll start off with "Outcomes Based on Goals" to provide us small insight on tr
 
 ![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 ## **Theater Outcomes by Launch Date**
-Let it be known this is a small representation of the over all data as there are many more categories, thier data and trends vary but still display distinguishable patterns over a period of time.
+Moving onto "Theater Outcomes by Launch Date," we'll be isolating a singular *Parent Category* to visualize whether projects that succeed in receiving funding fulfill the promise of production. The graph below shows us that initially, theater-based projects receiving positive support/funding have high success rates when meeting launch dates from January to May/June. However, it steadily descends each month afterward as we approach December. Also, despite there being cancellations it's marginally small and consistently stays that way over the span of time. Let it be known this is a small representation of the overall data as there are many more categories, their data and trends vary but still display distinguishable patterns over a period of time.
 ![Theater Outcomes by Launch Date](resources/Theater_Outcomes_vs_Launch.png)
